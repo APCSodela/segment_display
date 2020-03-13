@@ -1,0 +1,11 @@
+C:\Adrian 2019\2 - Second Semester\Visual Basic\segment_display\segment_display\bin\Debug\segment_display.exe.config
+C:\Adrian 2019\2 - Second Semester\Visual Basic\segment_display\segment_display\bin\Debug\segment_display.exe
+C:\Adrian 2019\2 - Second Semester\Visual Basic\segment_display\segment_display\bin\Debug\segment_display.pdb
+C:\Adrian 2019\2 - Second Semester\Visual Basic\segment_display\segment_display\bin\Debug\segment_display.xml
+C:\Adrian 2019\2 - Second Semester\Visual Basic\segment_display\segment_display\obj\Debug\segment_display.vbprojAssemblyReference.cache
+C:\Adrian 2019\2 - Second Semester\Visual Basic\segment_display\segment_display\obj\Debug\segment_display.Form1.resources
+C:\Adrian 2019\2 - Second Semester\Visual Basic\segment_display\segment_display\obj\Debug\segment_display.Resources.resources
+C:\Adrian 2019\2 - Second Semester\Visual Basic\segment_display\segment_display\obj\Debug\segment_display.vbproj.GenerateResource.cache
+C:\Adrian 2019\2 - Second Semester\Visual Basic\segment_display\segment_display\obj\Debug\segment_display.exe
+C:\Adrian 2019\2 - Second Semester\Visual Basic\segment_display\segment_display\obj\Debug\segment_display.xml
+C:\Adrian 2019\2 - Second Semester\Visual Basic\segment_display\segment_display\obj\Debug\segment_display.pdb
